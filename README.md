@@ -1,2 +1,2 @@
-# learning
-a repository that is for private learning
+# Hello China
+This is a test
